@@ -1,3 +1,0 @@
-create user c##entrega4 identified by entrega;
-grant connect, resource to c##entrega4;
-alter user c##entrega4 default tablespace users quota unlimited on users;
